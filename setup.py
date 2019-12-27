@@ -19,7 +19,7 @@ setup(
     python_requires=">=3.6",
     packages=find_packages(),  #same as name
     install_requires=[
-        'numpy==1.15.4',
+        'numpy==1.16.0',
         'pydicom==1.2.1',
         'scikit-image==0.14.2',
         'scipy==1.2.0',
